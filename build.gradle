@@ -40,6 +40,8 @@ subprojects {
     }
 
     dependencies {
+        implementation("com.squareup.moshi:moshi-kotlin:1.15.0")
+        implementation("com.squareup.moshi:moshi-adapters:1.15.0")
         testImplementation 'com.github.hyperskill:hs-test:release-SNAPSHOT'
     }
 

@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Contacts (Kotlin)/task/build/
+/Contacts (Kotlin)/task/out/
+/Contacts (Kotlin)/task/out/production/classes/
